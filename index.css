@@ -1,0 +1,63 @@
+.bg-custom {
+    background-color:white !important;
+    padding-left: 31px;
+    padding-right: 31px;
+    
+}
+
+.btn-outline-success{
+    color:orange;
+    background-color: transparent;
+    background-image: none;
+    border-color: orange;
+}
+
+.navbar-brand{
+    color: orange !important;
+}
+
+
+.title {
+    padding-bottom: 50px;
+}
+
+a {
+    color:black;
+}
+
+.cata{
+    width: 239px;
+    height: 641px;
+    float: left;
+}
+
+.wrap {
+    width: 700px;
+    margin: auto;
+  }
+
+.inputting {
+    width: 650px;
+    margin: auto;
+}
+
+.questionheight{
+    height: 300px;
+}
+
+.name_width {
+    width: 150px;
+    float: right;
+}
+
+.box1 {
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+  }
+
+  .location {
+    position : absolute ;
+    right: 50px;
+    top: 200px;
+  }
